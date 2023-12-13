@@ -18,6 +18,7 @@ Requirements for the MVP:
 - [ ] Wrong user inputs should be prohibited and the user should be assisted and told what he/she should do to create the Cookie Cutter shape
 - [ ] The entire Cookie Cutter addon has a Plug-and-Play feeling, no tinkering around required, less is more, target group are beginner FreeCAD users
 
+
 Steps:
 1. Create a good Macro file structure, look at other well-made Macros in how they are structured
 2. Define the exact cross-section dimensions
@@ -25,5 +26,8 @@ Steps:
 4. Create a closed wire of the cross-section, defined in step 2 in the root
 5. Transform the closed wire to one point of the cookie cutter sweep-"path", so its orthogonal to it (Here its important to transform the cross-section wire to the correct quadrant of the plane)
 6. Sweep the cross-section wire along the cookie cutter sweep-"path to create a Part::Feature object
-7. Make it work for imported DXF-files
+7. Get Macro tested by beginner FreeCAD user
+8. Make it work for imported DXF-files
+9. Get Macro tested by beginner FreeCAD user
+
 
