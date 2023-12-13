@@ -17,6 +17,7 @@ Requirements for the MVP:
 - [ ] The cookie cutter is intended to be 3D printed. The shape of the Cookie Cutter is orientated in a way, in which its easy to 3D print it, removing the need to rotate it in the slicer software
 - [ ] Wrong user inputs should be prohibited and the user should be assisted and told what he/she should do to create the Cookie Cutter shape
 - [ ] The entire Cookie Cutter addon has a Plug-and-Play feeling, no tinkering around required, less is more, target group are beginner FreeCAD users
+- [ ] Macro is downloadable through the integrated Addon Manager
 
 
 Steps:
