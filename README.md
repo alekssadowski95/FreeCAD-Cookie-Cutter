@@ -26,8 +26,9 @@ Steps:
 4. Create a closed wire of the cross-section, defined in step 2 in the root
 5. Transform the closed wire to one point of the cookie cutter sweep-"path", so its orthogonal to it (Here its important to transform the cross-section wire to the correct quadrant of the plane)
 6. Sweep the cross-section wire along the cookie cutter sweep-"path to create a Part::Feature object
-7. Get Macro tested by beginner FreeCAD user
-8. Make it work for imported DXF-files
-9. Get Macro tested by beginner FreeCAD user
+7. Create and add icon to Macro
+8. Get Macro tested by beginner FreeCAD user
+9. Make it work for imported DXF-files
+10. Get Macro tested by beginner FreeCAD user
 
 
