@@ -29,7 +29,8 @@ Steps:
 6. Sweep the cross-section wire along the cookie cutter sweep-"path to create a Part::Feature object
 7. Create and add icon to Macro
 8. Get Macro tested by beginner FreeCAD user
-9. Make it work for imported DXF-files
-10. Get Macro tested by beginner FreeCAD user
+9. Add Macro to Addon Manager
+10. Make it work for imported DXF-files
+11. Get Macro tested by beginner FreeCAD user
 
 
