@@ -18,6 +18,7 @@ Requirements for the MVP:
 - [ ] Wrong user inputs should be prohibited and the user should be assisted and told what he/she should do to create the Cookie Cutter shape
 - [ ] The entire Cookie Cutter addon has a Plug-and-Play feeling, no tinkering around required, less is more, target group are beginner FreeCAD users
 
+Steps:
 1. Create a good Macro file structure, look at other well-made Macros in how they are structured
 2. Define the exact cross-section dimensions
 3. Get the full closed wire through selecting a sketch or part of a closed wire (Shape), get (any) one point from that wire
